@@ -1,0 +1,3 @@
+Contar Vogais
+Implemente um método que recebe uma string e retorna o número de vogais nela. Considere as vogais a, e, i, o, u,
+independentemente do caso (maiúsculas ou minúsculas).
