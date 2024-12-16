@@ -1,0 +1,7 @@
+FizzBuzz
+Crie um método que receba um número inteiro como entrada e retorne:
+
+"Fizz" se o número for divisível por 3.
+"Buzz" se o número for divisível por 5.
+"FizzBuzz" se for divisível por ambos.
+O próprio número como String se não for divisível por 3 ou 5.
