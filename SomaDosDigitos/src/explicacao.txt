@@ -1,0 +1,3 @@
+Soma dos Dígitos
+Crie um método que receba um número inteiro positivo e retorne a soma de seus dígitos.
+Exemplo: para o número 123, a soma seria 1 + 2 + 3 = 6.
