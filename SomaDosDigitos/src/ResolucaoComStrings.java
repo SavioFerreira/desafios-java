@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ResolucaoComStrings {
 
     public static String somarDigitosPositivos(String value) {
 
