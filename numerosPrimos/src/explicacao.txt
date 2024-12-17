@@ -1,0 +1,3 @@
+4. Números Primos
+Implemente um método que verifique se um número inteiro é primo.
+Um número primo é aquele maior que 1 e divisível apenas por 1 e por ele mesmo.
