@@ -1,0 +1,3 @@
+5. Anagrama
+Crie um método que receba duas palavras e determine se são anagramas,
+ou seja, se possuem exatamente os mesmos caracteres com as mesmas quantidades.
