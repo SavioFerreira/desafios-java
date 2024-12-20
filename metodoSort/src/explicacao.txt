@@ -1,0 +1,3 @@
+Ordenar Array
+Implemente um método que receba um array de números inteiros e retorne
+o array ordenado em ordem crescente, sem usar bibliotecas prontas como Arrays.sort.
